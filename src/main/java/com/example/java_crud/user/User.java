@@ -1,4 +1,4 @@
-package com.example.spring_security.user;
+package com.example.java_crud.user;
 
 
 import jakarta.persistence.*;

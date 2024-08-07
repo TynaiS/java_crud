@@ -1,6 +1,6 @@
-package com.example.spring_security.config;
+package com.example.java_crud.config;
 
-import com.example.spring_security.user.UserRepository;
+import com.example.java_crud.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

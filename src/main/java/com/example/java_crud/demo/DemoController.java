@@ -1,4 +1,4 @@
-package com.example.spring_security.demo;
+package com.example.java_crud.demo;
 
 
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.example.spring_security.config;
+package com.example.java_crud.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

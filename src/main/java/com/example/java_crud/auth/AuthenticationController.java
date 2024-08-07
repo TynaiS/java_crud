@@ -1,4 +1,4 @@
-package com.example.spring_security.auth;
+package com.example.java_crud.auth;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

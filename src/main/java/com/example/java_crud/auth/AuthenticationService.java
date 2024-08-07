@@ -1,9 +1,9 @@
-package com.example.spring_security.auth;
+package com.example.java_crud.auth;
 
-import com.example.spring_security.config.JwtService;
-import com.example.spring_security.user.Role;
-import com.example.spring_security.user.User;
-import com.example.spring_security.user.UserRepository;
+import com.example.java_crud.config.JwtService;
+import com.example.java_crud.user.Role;
+import com.example.java_crud.user.User;
+import com.example.java_crud.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

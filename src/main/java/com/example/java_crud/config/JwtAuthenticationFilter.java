@@ -1,4 +1,4 @@
-package com.example.spring_security.config;
+package com.example.java_crud.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
