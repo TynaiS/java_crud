@@ -1,4 +1,4 @@
-package main.java.com.example.java_crud.security;
+package com.java_crud.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

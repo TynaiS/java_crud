@@ -1,4 +1,4 @@
-package com.example.java_crud.task;
+package com.java_crud.task;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

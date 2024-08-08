@@ -1,6 +1,6 @@
-package com.example.java_crud.board;
+package com.java_crud.board;
 
-import com.example.java_crud.task.Task;
+import com.java_crud.task.Task;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

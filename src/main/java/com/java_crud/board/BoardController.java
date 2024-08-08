@@ -1,4 +1,4 @@
-package com.example.java_crud.board;
+package com.java_crud.board;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

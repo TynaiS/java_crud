@@ -1,7 +1,5 @@
-package com.example.java_crud.board;
+package com.java_crud.board;
 
-import com.example.java_crud.board.Board;
-import com.example.java_crud.board.BoardRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
