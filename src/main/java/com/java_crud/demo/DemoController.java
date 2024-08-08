@@ -1,4 +1,4 @@
-package com.example.java_crud.demo;
+package com.java_crud.demo;
 
 
 import org.springframework.http.ResponseEntity;

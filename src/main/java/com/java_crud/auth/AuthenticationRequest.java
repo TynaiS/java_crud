@@ -1,4 +1,4 @@
-package com.example.java_crud.auth;
+package com.java_crud.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

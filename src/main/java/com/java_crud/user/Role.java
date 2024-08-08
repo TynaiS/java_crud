@@ -1,4 +1,4 @@
-package com.example.java_crud.user;
+package com.java_crud.user;
 
 public enum Role {
     USER,

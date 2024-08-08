@@ -1,4 +1,4 @@
-package com.example.java_crud.config;
+package com.java_crud.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

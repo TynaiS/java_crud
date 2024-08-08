@@ -1,4 +1,4 @@
-package com.example.java_crud.config;
+package com.java_crud.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
