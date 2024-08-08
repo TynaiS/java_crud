@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://34.203.214.109:5432/jwt_security
     username: postgres
-    password: postgres
+    password: amigosIsNigger
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
