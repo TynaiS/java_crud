@@ -2,7 +2,7 @@ spring:
   application:
     name: java_crud
   datasource:
-    url: jdbc:postgresql://54.221.171.170:5432/jwt_security
+    url: jdbc:postgresql://34.203.214.109:5432/jwt_security
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver

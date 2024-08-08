@@ -1,6 +1,6 @@
-package com.example.java_crud.repositories;
+package com.example.java_crud.board;
 
-import main.java.com.java_crud.entities.Board;
+import com.example.java_crud.board.Board;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

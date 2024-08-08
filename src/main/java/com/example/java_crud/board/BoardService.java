@@ -1,7 +1,7 @@
-package com.example.java_crud.services;
+package com.example.java_crud.board;
 
-import main.java.com.java_crud.entities.Board;
-import main.java.com.java_crud.repositories.BoardRepository;
+import com.example.java_crud.board.Board;
+import com.example.java_crud.board.BoardRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.java_crud.controllers;
+package com.example.java_crud.task;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

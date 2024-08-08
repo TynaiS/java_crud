@@ -1,24 +1,19 @@
-package com.example.java_crud.entities;
+package com.example.java_crud.task;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
 @Entity
 @Table
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Board {
+public class Task {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-    private String name;
-
-    @OneToMany(cascade=CascadeType.ALL, orphanRemoval = true)
-    private List<Task> tasks;
+    private String title;
+    private String description;
 }

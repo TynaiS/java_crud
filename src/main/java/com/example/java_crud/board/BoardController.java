@@ -1,7 +1,5 @@
-package com.example.java_crud.controllers;
+package com.example.java_crud.board;
 
-import main.java.com.java_crud.entities.Board;
-import main.java.com.java_crud.services.BoardService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
