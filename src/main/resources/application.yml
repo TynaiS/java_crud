@@ -2,9 +2,12 @@ spring:
   application:
     name: java_crud
   datasource:
-    url: jdbc:postgresql://34.203.214.109:5432/jwt_security
+#    url: jdbc:postgresql://34.203.214.109:5432/jwt_security
+#    username: postgres
+#    password: amigosIsNigger
+    url: jdbc:postgresql://localhost:5432/java_crud
     username: postgres
-    password: amigosIsNigger
+    password: postgres
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
@@ -15,7 +18,3 @@ spring:
         format_sql: true
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
-  security:
-    user:
-      name: admin
-      password: admin
