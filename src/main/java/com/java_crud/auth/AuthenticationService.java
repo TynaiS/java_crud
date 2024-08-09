@@ -38,7 +38,7 @@ public class AuthenticationService {
                     .build();
         } else {
             return AuthenticationResponse.builder()
-                    .message("This email already registered")
+                    .message("This email is already registered")
                     .build();
         }
 
